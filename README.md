@@ -23,7 +23,7 @@ It provides:
 ## 🌐 Live Demo
 
 The project is currently deployed and accessible at:  
-👉 [testigomx.com](https://testigomx.com)
+👉 [testigo.mx](https://testigo.mx)
 
 ---
 
